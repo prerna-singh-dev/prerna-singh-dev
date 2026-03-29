@@ -1,85 +1,119 @@
-# 👋 Hi, I'm Prerna Singh
+# 👋 Hi, I'm Prerna Singh  
 
-### Front-End Developer | React | Scalable UI Development | Open to Remote & Freelance Work
+### 🚀 Frontend Developer | UI Developer | React | Web Development  
 
-Front-End Developer with 6+ years of experience building responsive, user-friendly web interfaces and reusable component-based architectures. I specialize in React and modern JavaScript (ES6+), delivering clean, maintainable UI systems from design to production.
-
-I’ve worked on enterprise applications, CMS-driven platforms, and dynamic web interfaces — collaborating with cross-functional teams to ship reliable and scalable frontend solutions.
-
----
-
-## 🚀 Core Expertise
-
-- ⚡ Reusable React component architecture
-- 🎯 Pixel-perfect design-to-code (Figma, InVision, Photoshop)
-- 🔄 RESTful API integration & dynamic data handling
-- 🎨 Responsive UI using SASS, BEM & modern CSS
-- 💬 Real-time feature integration (WebSocket-based chat)
-- 🏗 Agile enterprise workflow (Git, Jira, code reviews)
-- 🧩 CMS experience (AEM, WordPress)
+💼 **Actively Open to Work (Frontend / UI / React / Web Developer Roles)**  
+🌍 **Open to Remote Opportunities (Preferred)**  
+🌐 **Portfolio:** [View My Work 🚀](https://prernasingh-portfolio.netlify.app/)  
+📧 **Email:** singh.prerna489@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/prerna-singh-reactdev2025/  
 
 ---
 
-## 🛠 Tech Stack
+## 💡 What I Bring to the Table  
 
-### Frontend
-React JS • JavaScript (ES6+) • HTML5 • CSS3 • Tailwind CSS • SASS • jQuery
+Frontend Developer with 6+ years of experience building **responsive, scalable, and user-friendly web applications**.
 
-### State Management
-Redux Toolkit • Context API • React Hooks
+I work across:
+- React.js applications  
+- UI development & design-to-code  
+- Modern web technologies (HTML, CSS, JavaScript)  
 
-### Optimization & SEO
-Semantic HTML • Basic On-Page SEO • Schema Markup • Lighthouse (Project-level usage)
-
-### Tools & Workflow
-Git • GitHub • Bitbucket • NPM • Webpack • Jira
-
-### CMS & Backend Exposure
-Adobe Experience Manager (AEM) • WordPress • PHP • MySQL • GSP
+I focus on:
+- Building **clean, reusable UI components**  
+- Delivering **pixel-perfect responsive interfaces**  
+- Writing **maintainable, production-ready code**  
+- Optimizing performance for smooth user experience  
 
 ---
 
-## 💼 Professional Experience
+## 🚀 Featured Projects  
+
+### 🎬 MovieMate – Movie & TV Discovery App  
+🔗 https://prerna-react-moviemate-app.netlify.app/  
+
+- Built using React, Tailwind CSS & TMDB API  
+- Implemented debounced search for better performance  
+- Optimized render time from **~18ms → ~2ms** ⚡  
+- Used lazy loading & efficient data fetching  
+- Added routing with error handling & custom 404  
+
+---
+
+### 📝 Notes App  
+🔗 https://prerna-notes-app.netlify.app/  
+
+- Built with React, Context API & Local Storage  
+- Add / Edit / Delete notes with persistent storage  
+- Clean, reusable component structure  
+
+---
+
+### 💬 Quote Generator  
+🔗 https://pre-quote-generator-app.netlify.app/  
+
+- Built using React & Custom Hooks  
+- Dynamic and lightweight UI  
+- Responsive and minimal design  
+
+---
+
+## 🛠 Core Skills  
+
+**Frontend Development:**  
+React.js • JavaScript (ES6+) • HTML5 • CSS3 • Tailwind CSS • SASS  
+
+**UI Development:**  
+Responsive Design • Figma to Code • Cross-browser Compatibility  
+
+**State Management:**  
+Redux Toolkit • Context API • React Hooks  
+
+**Performance & Optimization:**  
+Lazy Loading • Code Splitting • Lighthouse • Core Web Vitals  
+
+**Tools & Workflow:**  
+Git • GitHub • Bitbucket • Webpack • NPM • Jira  
+
+**Additional:**  
+AEM • WordPress • REST APIs • PHP • MySQL  
+
+---
+
+## 💼 Professional Experience  
 
 **Technical Lead – HCL Technologies**  
-Built modular AEM components, structured scalable CSS systems using SASS and BEM, implemented responsive UI aligned with enterprise standards, and collaborated with cross-functional teams in Agile sprints.
+- Built scalable AEM components & modular UI systems  
+- Delivered responsive, enterprise-grade applications  
 
 **Web UI Developer – UrbanPro**  
-Developed reusable React components, integrated RESTful APIs, contributed to real-time chat features, and implemented structured SEO markup.
+- Developed reusable React components & API integrations  
+- Improved performance and SEO  
 
 **Front-End Developer – NovoStack**  
-Delivered responsive WordPress-based websites and transformed design mockups into production-ready interfaces.
+- Built responsive UI from design mockups  
 
 **Web Developer – Dexterous Digital**  
-Built interactive websites using JavaScript, jQuery, AJAX, PHP, and MySQL.
+- Developed dynamic web apps using JavaScript, PHP & MySQL  
 
 ---
 
-## 🌱 Current Focus
+## 🎯 Open Opportunities  
 
-- Advanced React patterns & scalable component systems  
-- Building modern UI architectures with Tailwind CSS  
-- Strengthening frontend best practices & code maintainability  
-
----
-
-## 🌍 Open To
-
-✔ Remote Front-End Developer roles  
-✔ International remote contracts  
-✔ Freelance React & UI projects  
-✔ Front-end modernization initiatives  
+✔ Frontend Developer Roles  
+✔ UI Developer Roles  
+✔ React Developer Opportunities  
+✔ Web Developer Positions  
+✔ Freelance & Remote Projects  
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect  
 
-📍 Bangalore, India  
-📞 +91-9717965041  
+📧 Email: singh.prerna489@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/prerna-singh-reactdev2025/  
-💻 GitHub: https://github.com/prerna-singh-dev  
-📧 singh.prerna489@gmail.com  
+🌐 Portfolio: https://prernasingh-portfolio.netlify.app/  
 
 ---
 
-⭐ I enjoy building clean, scalable front-end systems that combine structured architecture with seamless user experience.
+⭐ *Open to exciting opportunities where I can contribute to building clean, user-focused web experiences.*
