@@ -29,6 +29,17 @@ I focus on:
 
 ## 🚀 Featured Projects  
 
+### 💰 Finance Tracker App
+🔗 https://prerna-finance-tracker.netlify.app/
+
+* Built using React.js with modern component-based architecture
+* Track income, expenses & balance dynamically
+* Implemented state management and real-time UI updates
+* Responsive and clean dashboard-style interface
+* Focused on reusable components and smooth user experience
+* Optimized for usability and mobile responsiveness
+
+
 ### 🎬 MovieMate – Movie & TV Discovery App  
 🔗 https://prerna-react-moviemate-app.netlify.app/  
 
