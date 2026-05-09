@@ -32,13 +32,15 @@ I focus on:
 ### 💰 Finance Tracker App
 🔗 https://prerna-finance-tracker.netlify.app/
 
-* Built using React.js with modern component-based architecture
-* Track income, expenses & balance dynamically
-* Implemented state management and real-time UI updates
-* Responsive and clean dashboard-style interface
-* Focused on reusable components and smooth user experience
-* Optimized for usability and mobile responsiveness
+- Built using **React.js, Redux Toolkit, Tailwind CSS & Chart.js**
+- Implemented centralized state management using **Redux Toolkit**
+- Used **Web Storage APIs (localStorage)** for persistent transaction data
+- Added interactive expense visualization with **dynamic charts & analytics**
+- Developed responsive dashboard UI with reusable component architecture
+- Implemented real-time balance, income & expense tracking functionality
+- Focused on clean UI, smooth UX, and mobile responsiveness
 
+---
 
 ### 🎬 MovieMate – Movie & TV Discovery App  
 🔗 https://prerna-react-moviemate-app.netlify.app/  
